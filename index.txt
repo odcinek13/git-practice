@@ -1,2 +1,3 @@
 1
 linijka->11
+linijka->1234
